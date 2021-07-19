@@ -1,0 +1,7 @@
+const Types = {
+  SET_LOADING: 'SET_LOADING',
+  SET_ERROR: 'SET_ERROR',
+  SET_LIST_TRANSACTION: 'SET_LIST_TRANSACTION',
+};
+
+export default Types;
